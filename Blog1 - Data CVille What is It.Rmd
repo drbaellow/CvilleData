@@ -1,0 +1,28 @@
+---
+title: "Data Cville - What is it, and what can it become?"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## What is this?
+
+This is a blog whose primary goal is to track the improvement my data science skills. I'm a self-taught wannabe data scientist with a passion for learning and improving on a daily basis and I want to create something to force me to study and document my process. At the start of this journey I'd say I'm a 5 (of 10) in R, a 3 in SQL, and a 2 in Python, so I'm excited to improve in those arenas and add more to this list. I don't claim to be a great writer, and I'm certainly not an expert. I'm using this as a method tracking device and to put this crazy experience into plain English for others to follow. 
+
+To give you a brief technical preview, this blog post was created using RMarkdown utilizing the RWordPress and knittr packages. My next post is going to be explaining this whole process in much more detail. I plan on posting the RMD files to GitHub and you can follow the updates at [@DataCvilleBlog] (www.twitter.com/datacvilleblog) on twitter. 
+
+
+
+## What can it become?
+
+First and foremost, I want Data Cville to become a scrapbook for my projects. I want to take my knowledge from beginner-plus to above average in the data science world. There are so many amazing things that can be accomplished using data science and I want to be a part of the revolution. 
+
+Second, I want this to be a resource for other people in my shoes. The data science field is expanding so rapidly, and constant self-teaching is the only way to stay afloat. The resources available are wonderful and abundant, but from what I can find there isn't much from people who aren't experts. There's not enough people talking about how hard it is, how long they took trying to fix the one error that's holding them back, or how stuck they feel when they can see the finished product in their mind but what's on the screen looks nothing like that. I want Data Cville to be an honest look at a regular person trying to learn data science. 
+
+Third, in the very distant future, I would love to create a voice and a platform for the work that comes from fellow Charlottesvillians. Cities like San Francisco, New York, Boston, and Philly get a lot of press as being great hubs of data science, and not being there can be lonely and intimidating. You don't need to live in a massive tech center or have a PhD to make interesting discoveries, and I want Data Cville to highlight the great work coming from ordinary people in Charlottesville, VA. 
+
+## Who am I?
+
+I am a 2013 graduate of Randolph-Macon College. I took one introductory Python class in college but hated it - it was the worst grade a I got and I couldn't see how it would be relevant. I guess I should have paid more attention! I started my data science journey as a sales operations manager of a pharmaceutical sales company in Charlottesville, VA. From running SQL queries to manipulating the excel spreadsheets, I developed a passion for being able to tell stories with data. When we were let go, I decided to go off on my own and be a data analytics consultant. Still working mainly in Excel, I had a summer intern teach me R. From there I was hooked! To see how these programs could make telling stories easier and contribute to business decisions in a more efficient manner blew my mind. I'm always learning and eager to see where the next part of the journey leads!
